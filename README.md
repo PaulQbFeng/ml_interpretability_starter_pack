@@ -25,7 +25,7 @@ git clone git@github.axa.com:axa-go-getd/ai_engineering_ml_interpretability.git
 cd ai_engineering_ml_interpretability
 ```
 
-2. Create and activate a conda environment for Python 3
+2. Create and activate a python environment for Python 3 (conda, venv etc...)
 
 ```shell
 conda create -n interpretability
