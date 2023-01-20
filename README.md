@@ -21,8 +21,8 @@ Development setup by following the following steps
 1. Clone the project
 
 ```
-git clone git@github.axa.com:axa-go-getd/ai_engineering_ml_interpretability.git
-cd ai_engineering_ml_interpretability
+git clone git@github.com:PaulQbFeng/ml_interpretability_starter_pack.git
+cd ml_interpretability_starter_pack
 ```
 
 2. Create and activate a python environment for Python 3 (conda, venv etc...)
